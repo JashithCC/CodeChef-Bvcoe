@@ -197,7 +197,7 @@ export default function CodeChefChapter() {
                     src={`/${events[activeEventIndex].image}`} 
                     alt={events[activeEventIndex].title} 
                     fill 
-                    className="object-cover" 
+                    className="object-contain object-center" 
                   />
                 </div>
                 <div className="md:w-1/2 p-8 md:p-12 flex flex-col justify-center">
@@ -312,9 +312,6 @@ export default function CodeChefChapter() {
                 </svg>
               </a>
             </div>
-          </div>
-          <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>© 2025 CodeChef Student Chapter.</p>
           </div>
         </div>
       </footer>
