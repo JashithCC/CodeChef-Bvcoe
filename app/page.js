@@ -11,7 +11,7 @@ export default function CodeChefChapter() {
     {
       title: "Technotic 2.0",
       date: "March 18, 2025",
-      description: "CodeChef&apos;s flagship event - compete in aptitutde and DSA to take home the prize!",
+      description: "CodeChef's flagship event - compete in aptitutde and DSA to take home the prize!",
       image: "technotic.jpg"
     },
     {
